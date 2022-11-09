@@ -4,12 +4,6 @@ Have you ever wondered how to connect metamask crypto wallet with a simple react
 The solution is pretty simple, not a one liner, but simply few lines of code.
 Follow my latest tutorial on YouTube to make it easy and quickly:
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/qCmGSIOKUsA"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)]([https://www.youtube.com/watch?v=UmX4kyB2wfg](https://youtu.be/qCmGSIOKUsA))
+
+
